@@ -23,11 +23,11 @@
 ### Digital Board Games
 - [Scythe](https://www.asmodee-digital.com/en/scythe)
 - [Root](https://www.direwolfdigital.com/root)
-- [Wingspan]()
-- [Spirit Island]()
-- [Oceans]()
-- [Evolution]()
-- [Terraforming Mars]()
+- [Wingspan](https://stonemaiergames.com/games/wingspan/digital-versions/)
+- [Spirit Island](https://www.handelabra.com/spiritisland)
+- [Oceans](https://www.oceansdigitalgame.com/)
+- [Evolution](https://www.evolutiondigitalgame.com/)
+- [Terraforming Mars](https://www.asmodee-digital.com/en/terraforming-mars/)
 
 ### Board Game Apps
 - [Vassal](https://vassalengine.org/)
@@ -40,6 +40,9 @@
 
 ### Bots
 - [Root: The Clockwork Companion](https://clockroot.seiyria.com/)
+
+### Trial
+- [Cascadia](https://cascadiagame.github.io/)
 
 ## Content Creators
 - [Shu Up & Sit Down](https://www.shutupandsitdown.com/)
