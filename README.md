@@ -31,6 +31,7 @@
 - [Oceans](https://www.oceansdigitalgame.com/)
 - [Evolution](https://www.evolutiondigitalgame.com/)
 - [Terraforming Mars](https://www.asmodee-digital.com/en/terraforming-mars/)
+- [Galaxy Trucker](https://galaxytrucker.com/)
 
 ### Board Game Apps
 - [Vassal](https://vassalengine.org/)
