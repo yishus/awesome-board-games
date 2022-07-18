@@ -13,12 +13,15 @@
 - [Boardgamers](https://www.boardgamers.space)
 
 ### Online Games
-- [https://treachery.online](https://treachery.online) - Dune
+- [treachery.online](https://treachery.online) - Dune
 - [Terra Mystica](https://terra.snellman.net/)
 - [Dominion](https://dominion.games)
+- [Jinteki](https://www.jinteki.net/) - Android Netrunner
 
 ### Online Party Games
 - [Codenames](https://codenames.game/)
+- [Secret Hitler](https://secrethitler.io/)
+- [Monikers](https://www.playmonikers.com/)
 
 ### Digital Board Games
 - [Scythe](https://www.asmodee-digital.com/en/scythe)
