@@ -30,6 +30,7 @@
 - [Summoner Wars](https://summonerwars.plaidhatgames.com/)
 - [Terraforming Mars](https://terraforming-mars.herokuapp.com/)
 - [The Crucible Online](https://thecrucible.online/) - Keyforge
+- [That's Pretty Clever!](https://www.schmidtspiele.de/static/onlinespiele/ganz-schoen-clever/)
 
 ### Party Games
 - [Codenames](https://codenames.game/)
@@ -61,6 +62,10 @@
 
 ### Bots
 - [Root: The Clockwork Companion](https://clockroot.seiyria.com/)
+
+### Apps
+- [BG Stats](https://www.bgstatsapp.com/)
+- Chwazi ([iOS](https://apps.apple.com/us/app/chwazi-finger-chooser/id689674978)|[Android](https://play.google.com/store/apps/details?id=com.tendadigital.chwaziApp))
 
 ### Demo
 - [Cascadia](https://cascadiagame.github.io/)
