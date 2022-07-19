@@ -1,5 +1,15 @@
 # awesome-board-games
 
+## Contents
+
+- [Online board games](#online-board-games)
+  - [Platforms](#platforms)
+  - [Games](#games)
+  - [Party Games](#party-games)
+  - [Digital Implementation](#digital-implementation)
+  - [Apps](#apps)
+- [Board Game Companions](#board-game-companions)
+
 ## Online board games
 
 ### Platforms
@@ -12,18 +22,18 @@
 - [Board Game Fiesta](https://boardgamefiesta.com)
 - [Boardgamers](https://www.boardgamers.space)
 
-### Online Games
+### Games
 - [treachery.online](https://treachery.online) - Dune
 - [Terra Mystica](https://terra.snellman.net/)
 - [Dominion](https://dominion.games)
 - [Jinteki](https://www.jinteki.net/) - Android Netrunner
 
-### Online Party Games
+### Party Games
 - [Codenames](https://codenames.game/)
 - [Secret Hitler](https://secrethitler.io/)
 - [Monikers](https://www.playmonikers.com/)
 
-### Digital Board Games
+### Digital Implementation
 - [Scythe](https://www.asmodee-digital.com/en/scythe)
 - [Root](https://www.direwolfdigital.com/root)
 - [Wingspan](https://stonemaiergames.com/games/wingspan/digital-versions/)
@@ -33,7 +43,7 @@
 - [Terraforming Mars](https://www.asmodee-digital.com/en/terraforming-mars/)
 - [Galaxy Trucker](https://galaxytrucker.com/)
 
-### Board Game Apps
+### Apps
 - [Vassal](https://vassalengine.org/)
 
 ## Board Game Companions
@@ -49,9 +59,15 @@
 - [Cascadia](https://cascadiagame.github.io/)
 
 ## Content Creators
-- [Shu Up & Sit Down](https://www.shutupandsitdown.com/)
+- [Shut Up & Sit Down](https://www.shutupandsitdown.com/)
+- [Heavy Cardboard](https://www.heavycardboard.com/)
 
 ### Youtube Channels
+- [Watch It Played](https://www.youtube.com/c/WatchItPlayed)
+- [Actualol](https://www.youtube.com/channel/UCO-hn9MJOu7pOUdGSabKGvA)
+- [slickerdrips](https://www.youtube.com/channel/UCmtyR1piEzGwYR5cfHo_VTQ)
+- [RTFM](https://www.youtube.com/c/RTFMShow)
+- [Modern Cardboard](https://www.youtube.com/user/ModernTablegamer)
 
 ### Podcasts
 - [Board Game Barrage](https://boardgamebarrage.com/)
