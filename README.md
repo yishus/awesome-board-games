@@ -21,6 +21,7 @@
 - [Rally the Troops!](https://rally-the-troops.com)
 - [Board Game Fiesta](https://boardgamefiesta.com)
 - [Boardgamers](https://www.boardgamers.space)
+- [Boîte à jeux](https://www.boiteajeux.net/)
 
 ### Games
 - [treachery.online](https://treachery.online) - Dune
@@ -31,6 +32,8 @@
 - [Terraforming Mars](https://terraforming-mars.herokuapp.com/)
 - [The Crucible Online](https://thecrucible.online/) - Keyforge
 - [That's Pretty Clever!](https://www.schmidtspiele.de/static/onlinespiele/ganz-schoen-clever/)
+- [Colonist](https://colonist.io/) - Settlers of Catan
+- [Citadels](https://www.citadelscardgame.com/)
 
 ### Party Games
 - [Codenames](https://codenames.game/)
@@ -66,6 +69,9 @@
 ### Apps
 - [BG Stats](https://www.bgstatsapp.com/)
 - Chwazi ([iOS](https://apps.apple.com/us/app/chwazi-finger-chooser/id689674978)|[Android](https://play.google.com/store/apps/details?id=com.tendadigital.chwaziApp))
+
+### Tutorial
+- [Chiriboga](https://chiriboga.sifnt.net.au/) - Android: Netrunner
 
 ### Demo
 - [Cascadia](https://cascadiagame.github.io/)
