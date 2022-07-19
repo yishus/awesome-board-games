@@ -27,6 +27,9 @@
 - [Terra Mystica](https://terra.snellman.net/)
 - [Dominion](https://dominion.games)
 - [Jinteki](https://www.jinteki.net/) - Android Netrunner
+- [Summoner Wars](https://summonerwars.plaidhatgames.com/)
+- [Terraforming Mars](https://terraforming-mars.herokuapp.com/)
+- [The Crucible Online](https://thecrucible.online/) - Keyforge
 
 ### Party Games
 - [Codenames](https://codenames.game/)
@@ -43,8 +46,12 @@
 - [Terraforming Mars](https://www.asmodee-digital.com/en/terraforming-mars/)
 - [Galaxy Trucker](https://galaxytrucker.com/)
 
-### Apps
+### Simulators/Engines
 - [Vassal](https://vassalengine.org/)
+- [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
+- [PlayingCards.io](https://playingcards.io/)
+- [VirtualTabletop.io](https://virtualtabletop.io)
+- [Tabletopia](https://tabletopia.com/)
 
 ## Board Game Companions
 
@@ -55,8 +62,10 @@
 ### Bots
 - [Root: The Clockwork Companion](https://clockroot.seiyria.com/)
 
-### Trial
+### Demo
 - [Cascadia](https://cascadiagame.github.io/)
+- [Calico](https://myautoma.github.io/games/calico/index.html)
+- [Verdant](https://verdantgame.github.io/)
 
 ## Content Creators
 - [Shut Up & Sit Down](https://www.shutupandsitdown.com/)
