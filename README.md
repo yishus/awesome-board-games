@@ -1,4 +1,4 @@
-# awesome-board-games
+# Awesome board games
 
 ## Contents
 
@@ -21,6 +21,8 @@
 - [Rally the Troops!](https://rally-the-troops.com)
 - [Boardgamers](https://www.boardgamers.space)
 - [Boîte à jeux](https://www.boiteajeux.net/)
+- [Mattle](https://mattle.online/)
+- [PsyCat Games](https://psycatgames.com/)
 
 ### Games
 - [treachery.online](https://treachery.online) - Dune
@@ -31,12 +33,18 @@
 - [Terraforming Mars](https://terraforming-mars.herokuapp.com/)
 - [The Crucible Online](https://thecrucible.online/) - Keyforge
 - [That's Pretty Clever!](https://www.schmidtspiele.de/static/onlinespiele/ganz-schoen-clever/)
+- [Wingspan](https://tabletopia.com/games/wingspan)
 - [Colonist](https://colonist.io/) - Settlers of Catan
 - [Citadels](https://www.citadelscardgame.com/)
 
 ### Party Games
 - [Codenames](https://codenames.game/)
 - [Secret Hitler](https://secrethitler.io/)
+- [Skribbl](https://skribbl.io/)
+- [Spin the Bottle](https://spinthebottle.app/)
+- [Spyfall](https://www.spyfall.app/)
+- [Truth or Drink](https://psycatgames.com/app/truth-or-drink/)
+- [Would You Rather](https://psycatgames.com/app/would-you-rather/)
 
 ### Digital Implementation
 - [Scythe](https://www.asmodee-digital.com/en/scythe/)
@@ -66,7 +74,7 @@
 
 ### Apps
 - [BG Stats](https://www.bgstatsapp.com/)
-- Chwazi ([iOS](https://apps.apple.com/us/app/chwazi-finger-chooser/id689674978)|[Android](https://play.google.com/store/apps/details?id=com.tendadigital.chwaziApp))
+- Chwazi ([iOS](https://apps.apple.com/us/app/chwazi-finger-chooser/id689674978) | [Android](https://play.google.com/store/apps/details?id=com.tendadigital.chwaziApp))
 
 ### Tutorial
 - [Chiriboga](https://chiriboga.sifnt.net.au/) - Android: Netrunner
@@ -76,11 +84,15 @@
 - [Calico](https://myautoma.github.io/games/calico/)
 - [Verdant](https://verdantgame.github.io/)
 
+### Magic the Gathering
+- [EDH Decklist Combo Finder](https://combo-finder.com/)
+- [EDH Combo Search Engine](https://edh-combos.com/)
+
 ## Content Creators
 - [Shut Up & Sit Down](https://www.shutupandsitdown.com/)
 - [Heavy Cardboard](https://www.heavycardboard.com/)
 
-### Youtube Channels
+### YouTube Channels
 - [Watch It Played](https://youtube.com/@WatchItPlayed)
 - [Actualol](https://www.youtube.com/@actualol)
 - [slickerdrips](https://youtube.com/@slickerdrips)
