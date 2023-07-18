@@ -1,4 +1,4 @@
-# awesome-board-games
+# Awesome board games
 
 ## Contents
 
@@ -19,9 +19,10 @@
 - [Happy Meeple](https://www.happymeeple.com)
 - [18xx.Games](https://18xx.games)
 - [Rally the Troops!](https://rally-the-troops.com)
-- [Board Game Fiesta](https://boardgamefiesta.com)
 - [Boardgamers](https://www.boardgamers.space)
 - [Boîte à jeux](https://www.boiteajeux.net/)
+- [Mattle](https://mattle.online/)
+- [PsyCat Games](https://psycatgames.com/)
 
 ### Games
 - [treachery.online](https://treachery.online) - Dune
@@ -38,11 +39,15 @@
 ### Party Games
 - [Codenames](https://codenames.game/)
 - [Secret Hitler](https://secrethitler.io/)
-- [Monikers](https://www.playmonikers.com/)
+- [Skribbl](https://skribbl.io/)
+- [Spin the Bottle](https://spinthebottle.app/)
+- [Spyfall](https://www.spyfall.app/)
+- [Truth or Drink](https://psycatgames.com/app/truth-or-drink/)
+- [Would You Rather](https://psycatgames.com/app/would-you-rather/)
 
 ### Digital Implementation
-- [Scythe](https://www.asmodee-digital.com/en/scythe)
-- [Root](https://www.direwolfdigital.com/root)
+- [Scythe](https://www.asmodee-digital.com/en/scythe/)
+- [Root](https://www.direwolfdigital.com/root/)
 - [Wingspan](https://stonemaiergames.com/games/wingspan/digital-versions/)
 - [Spirit Island](https://www.handelabra.com/spiritisland)
 - [Oceans](https://www.oceansdigitalgame.com/)
@@ -60,7 +65,7 @@
 ## Board Game Companions
 
 ### Game State Generators
-- [Cryptid](https://ospreypublishing.com/playcryptid/)
+- [Cryptid](https://www.playcryptid.com/)
 - [Lost Ruins of Arnak Solo Companion](https://czechgames.com/en/lost-ruins-of-arnak/solo/)
 
 ### Bots
@@ -68,26 +73,30 @@
 
 ### Apps
 - [BG Stats](https://www.bgstatsapp.com/)
-- Chwazi ([iOS](https://apps.apple.com/us/app/chwazi-finger-chooser/id689674978)|[Android](https://play.google.com/store/apps/details?id=com.tendadigital.chwaziApp))
+- Chwazi ([iOS](https://apps.apple.com/us/app/chwazi-finger-chooser/id689674978) | [Android](https://play.google.com/store/apps/details?id=com.tendadigital.chwaziApp))
 
 ### Tutorial
 - [Chiriboga](https://chiriboga.sifnt.net.au/) - Android: Netrunner
 
 ### Demo
 - [Cascadia](https://cascadiagame.github.io/)
-- [Calico](https://myautoma.github.io/games/calico/index.html)
+- [Calico](https://myautoma.github.io/games/calico/)
 - [Verdant](https://verdantgame.github.io/)
+
+### Magic the Gathering
+- [EDH Decklist Combo Finder](https://combo-finder.com/)
+- [EDH Combo Search Engine](https://edh-combos.com/)
 
 ## Content Creators
 - [Shut Up & Sit Down](https://www.shutupandsitdown.com/)
 - [Heavy Cardboard](https://www.heavycardboard.com/)
 
-### Youtube Channels
-- [Watch It Played](https://www.youtube.com/c/WatchItPlayed)
-- [Actualol](https://www.youtube.com/channel/UCO-hn9MJOu7pOUdGSabKGvA)
-- [slickerdrips](https://www.youtube.com/channel/UCmtyR1piEzGwYR5cfHo_VTQ)
-- [RTFM](https://www.youtube.com/c/RTFMShow)
-- [Modern Cardboard](https://www.youtube.com/user/ModernTablegamer)
+### YouTube Channels
+- [Watch It Played](https://youtube.com/@WatchItPlayed)
+- [Actualol](https://www.youtube.com/@actualol)
+- [slickerdrips](https://youtube.com/@slickerdrips)
+- [RTFM](https://youtube.com/@RTFM)
+- [Modern Cardboard](https://youtube.com/@ModernTablegamer)
 
 ### Podcasts
 - [Board Game Barrage](https://boardgamebarrage.com/)
