@@ -33,7 +33,6 @@
 - [Terraforming Mars](https://terraforming-mars.herokuapp.com/)
 - [The Crucible Online](https://thecrucible.online/) - Keyforge
 - [That's Pretty Clever!](https://www.schmidtspiele.de/static/onlinespiele/ganz-schoen-clever/)
-- [Wingspan](https://tabletopia.com/games/wingspan)
 - [Colonist](https://colonist.io/) - Settlers of Catan
 - [Citadels](https://www.citadelscardgame.com/)
 
